@@ -1,0 +1,30 @@
+.filepond--panel-root {
+  background-color: white;
+  border: 2px dashed rgb(233, 232, 232);
+}
+
+.border--error .filepond--panel-root {
+  border-color: red;
+}
+
+.filepond--drop-label {
+  font-size: 0.875rem !important;
+}
+
+.filepond--label-action {
+  color: #1e40af;
+  text-decoration: none;
+}
+
+.filepond--image-preview {
+  background: #fcfcfc !important;
+}
+
+.filepond--image-preview-overlay-idle {
+  mix-blend-mode: multiply;
+  color: rgb(209, 207, 207);
+}
+
+.filepond--credits {
+  display: none;
+}
